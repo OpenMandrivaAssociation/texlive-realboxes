@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-realboxes
 Version:	0.2
-Release:	1
+Release:	2
 Summary:	Variants of common box-commands that read their content as real box and not as macro argument
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/realboxes
