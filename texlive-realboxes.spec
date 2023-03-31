@@ -1,6 +1,6 @@
 Name:		texlive-realboxes
 Version:	64967
-Release:	1
+Release:	2
 Summary:	Variants of common box-commands that read their content as real box
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/realboxes
